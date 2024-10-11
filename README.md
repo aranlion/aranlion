@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aranlion
-- 👀 I’m interested in AI and Cybersecuriry
 - 🌱 I’m currently learning how to code xd
 - 💞️ I’m actually studying computer science at University.
 - ⚡ Fun fact: idk 
