@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aranlion
 - 🌱 I’m currently learning how to code xd
-- 💞️ I’m actually studying computer science at University.
 - ⚡ Fun fact: idk 
 
 <!---
